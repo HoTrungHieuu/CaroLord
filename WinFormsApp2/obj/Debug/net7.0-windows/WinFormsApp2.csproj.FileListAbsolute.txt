@@ -1,0 +1,17 @@
+D:\VSsource\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.exe
+D:\VSsource\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.deps.json
+D:\VSsource\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.runtimeconfig.json
+D:\VSsource\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.dll
+D:\VSsource\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.pdb
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.Form1.resources
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.dll
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\refint\WinFormsApp2.dll
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.pdb
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\VSsource\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\ref\WinFormsApp2.dll
